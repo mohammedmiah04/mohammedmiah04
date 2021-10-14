@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohammedmiah04
-- 👀 I love coding, sketching, running with squirrels and like all things Japan.  
+- 👀 I love coding, sketching, running with squirrels and all things Japan.  
 - 🌱 I’m currently learning Full Stack development. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - drop me an email on mohammedmiah04@hotmail.com 
